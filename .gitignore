@@ -1,0 +1,7 @@
+.bundle/
+log/*.log
+pkg/
+dummy_app/db/*.sqlite3
+dummy_app/log/*.log
+dummy_app/tmp/
+dummy_app/.sass-cache
