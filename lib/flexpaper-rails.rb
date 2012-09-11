@@ -1,4 +1,4 @@
-require "flexpaper-rails/engine"
+require 'flexpaper-rails/engine'
 
 module FlexpaperRails
 end
