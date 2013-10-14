@@ -7,11 +7,11 @@ require "flexpaper-rails/version"
 Gem::Specification.new do |s|
   s.name        = "flexpaper-rails"
   s.version     = FlexpaperRails::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of FlexpaperRails."
-  s.description = "TODO: Description of FlexpaperRails."
+  s.authors     = ["Elia Schito"]
+  s.email       = ["elia@schito.me"]
+  s.homepage    = "https://github.com/elia/flexpaper-rails"
+  s.summary     = "Rails bindings to Flexpaper."
+  s.description = "Rails bindings to Flexpaper."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
