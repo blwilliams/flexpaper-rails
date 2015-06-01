@@ -1,4 +1,5 @@
 source "http://rubygems.org"
+ruby '2.1.2'
 
 # Declare your gem's dependencies in flexpaper-rails.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and

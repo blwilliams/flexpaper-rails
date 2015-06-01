@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = FlexpaperRails::VERSION
   s.authors     = ["Elia Schito"]
   s.email       = ["elia@schito.me"]
-  s.homepage    = "https://github.com/elia/flexpaper-rails"
+  s.homepage    = "https://github.com/blwilliams/flexpaper-rails"
   s.summary     = "Rails bindings to Flexpaper."
   s.description = "Rails bindings to Flexpaper."
 
@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
   s.test_files    = s.files.grep(%r{^(test|spec|features)/})
   s.require_paths = ['lib']
 
-  s.add_dependency "rails", "~> 3.2.0"
+  s.add_dependency "rails", "~> 4.2.0"
   s.add_dependency "jquery-rails"
 end
